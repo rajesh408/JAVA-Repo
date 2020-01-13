@@ -1,0 +1,28 @@
+1. W.A.P in JAVA which accept a no. from a user, display whether the no. is even or 
+odd.
+
+2. W.A.P in JAVA which accepts marks from a user provide grade to student basis on following values in table:-
+	
+	if:-
+		marks			Grade
+		--------------		-------
+		50 >= and <60   	Pass
+		60 >= and <70   	Good
+		70 >= and <80   	Very Good
+		80 >= and <=100 	Excellent
+		mk <= 0 or >100 	Invalid marks entry
+apart from these values displays failed....!
+
+3. W.A.P in JAVA which accepts age from a user and display whether he/she will be elligible for voting or not ...?
+
+4. W.A.P in JAVA which accepts a no. from a user & check wheteher the no. is divisble by 5 or not  ?
+
+5. W.A.P in JAVA which accepts two no. from the user and display all the table between those two no.'s (including no.'s also) ? e.g 2,5 print table of 2,3,4,5.. 
+
+6.W.A.P in JAVA which which accepts age & qualification from a user & chk whether the user will be elligible for employability or not ?
+* employ criteria : 
+		1. age should be greater then or equal to 18
+		2. candidate must be graduate
+7. Write a menu driven based prog. in JAVA which 10 user has to poll a vote for diff. parties, he/she can poll to one party at a time, at end display the winner party ..?	
+ 
+

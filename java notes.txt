@@ -1,0 +1,117 @@
+comments:-
+=========
+			to document a code 
+			
+types:-
+			1. single-line comments  : //
+			2. multi-line
+								/*
+								...
+								...
+								...
+								*/
+								
+			3. JAVADoc comments /**
+								*....
+								*....
+								*....
+								*/
+								
+variable :-
+========		it's a namespace location in a a memory where the 				data values are going to be stored.
+				It's a prime unit data storage.
+				
+				e.g :-
+				variable decl:-
+				
+				Syntax:-
+							acc_sp. datatype nameof_var;
+							
+
+				e.g:		int roll; //var decl.
+
+							roll = 101; //var initialization
+							
+							
+							int marks=45; //decl. + initial.
+							
+							
+datatype :- specifies the type of data hold by that var..
+	
+		Types: 1. Fundamental/Primitive (8)
+					1. byte 	(1 byte)	// to store  integral values
+					2. short 	(2 byte)
+					3. int 		(4 bytes)
+					4. long 	(8 bytes)
+					
+					5. float 	(4 bytes) //used to store floating values
+					6. double 	(8 bytes)
+					
+					7. char 	(2 bytes) (based on unicode char-set)
+					8. boolean  (true/false) //a boolean value- default - floating
+					
+			   2. Reference type
+							
+					1. Class
+					2. Arrays
+					3. Interfaces
+					4. enumerations		
+				
+Types of variables:=
+==================
+		1. Instance var:  The variable which was declared/created under the declaration of a class such var  are called as instance var.
+			Every object of a class will hold a separate of such var.
+			
+		2. static variable:
+							are those variable whose only one copy exists in a memory and is shared by all the objects of that class.
+							
+							If one object do some chnages inside it , the another will get changes reflected.
+							
+							They declared  with static keyword.
+		3. Local variable:
+							var. which are created inside the block of a code,methods,const. methods.  & their scope is upto only that methods/block.
+							
+							
+To store strings JAVA provides a class 'String' -present inside java.lang package							.
+
+Packages :- Theay prefixe with two keywords: 1 java			
+											 2. javax
+
+																								Fundamental package java : - java.lang
+																								This is the package which we do not need to import in our java fle,
+																					              compiler automatically import this package classes during bytecod 	gen.        			    
+   																							In JAVA	Se-7:-
+																										we can add underscore literal :for increase the readability
+																								e.g.		
+				int id =8679_4567_3456;
+										
+Escape seq:-
+==========
+		 non-printitng characters which is usd in a string
+		 
+		 start with '\'
+		 e.g . \n - newline
+			   \t - tabspace
+			   \' - single quotes
+			   
+User _ input in JAVA:- 
+====================
+						1. Scanner class	
+						2. command-line args
+						3. I/O classes
+						
+						
+						To accept a input from the user at runtime java provides a Scanner class - present inside java.util package
+						They store the inputs  in terms of tokesn & to read a value from that tokens they provide everal method to us.
+
+						next() - for string value
+						nextInt()- int 
+						nextLong() - long
+						nextFloat() - float
+						nextDouble()- double
+						nextBool()-------
+						............
+						...............
+						
+						
+			   
