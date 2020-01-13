@@ -1,0 +1,45 @@
+1. Write a Java program to sort a numeric array and a string array. 
+2. Write a Java program to sum values of an array.
+3. Write a Java program to print the following grid. Go to the editor
+Expected Output :
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -  
+
+4. Write a Java program to calculate the average value of array elements. 
+5. Write a Java program to test if an array contains a specific value.  
+6.Write a Java program to find the index of an array element.  
+7. Write a Java program to remove a specific element from an array.  
+8. Write a Java program to copy an array by iterating the array.  
+9. Write a Java program to insert an element (specific position) into an array.  
+10. Write a Java program to find the maximum and minimum value of an array.  
+11. Write a Java program to reverse an array of integer values.  
+12. Write a Java program to find the duplicate values of an array of integer values.  
+13. Write a Java program to find the duplicate values of an array of string values.  
+14. Write a Java program to find the common elements between two arrays (string values).  
+15. Write a Java program to find the common elements between two arrays of integers.  
+16. Write a Java program to remove duplicate elements from an array.  
+17. Write a Java program to find the second largest element in an array.  
+18. Write a Java program to find the second smallest element in an array.  
+19. Write a Java program to add two matrices of the same size.   
+20. Write a Java program to test the equality of two arrays.  
+21. Write a Java program to find a missing number in an array.   
+22. Write a Java program to find the number of even and odd integers in a given array of integers.  
+23. Write a Java program to get the difference between the largest and smallest values in an array of integers. The length of the array must be 1 and above.  
+24. Write a Java program to compute the average value of an array of integers except the largest and smallest values.  
+25. Write a Java program to remove the duplicate elements of a given array and return the new length of the array.
+Sample array: [20, 20, 30, 40, 50, 50, 50]
+After removing the duplicate elements the program should return 4 as the new length of the array.   
+26. Write a Java program to find the sum of the two elements of a given array which is equal to a given integer.
+Sample array: [1,2,4,5,6] 
+Target value: 6.   
+
+27. Write a Java program to find smallest and second smallest elements of a given array 
+

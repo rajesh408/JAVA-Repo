@@ -1,0 +1,139 @@
+Java String Exercises
+=====================
+
+1. Write a Java program to get the character at the given index within the String. 
+
+
+
+2. Write a Java program to get the character (Unicode code point) at the given index within the String. 
+
+
+
+3. Write a Java program to get the character (Unicode code point) before the specified index within the String. 
+
+
+
+4. Write a java program to count a number of Unicode code points in the specified text range of a String. 
+
+
+
+5. Write a java program to compare two strings lexicographically. 
+
+
+
+6. Write a java program to compare two strings lexicographically, ignoring case differences. 
+
+
+
+7. Write a Java program to concatenate a given string to the end of another string. 
+
+
+
+8. Write a Java program to test if a given string contains the specified sequence of char values. 
+
+
+
+9. Write a Java program to compare a given string to the specified character sequence. 
+
+
+
+10. Write a Java program to compare a given string to the specified string buffer. 
+
+
+
+11. Write a Java program to create a new String object with the contents of a character array. 
+
+
+
+12. Write a Java program to check whether a given string ends with the contents of another string. 
+
+
+
+13. Write a Java program to check whether two String objects contain the same data. 
+
+
+
+14. Write a Java program to compare a given string to another string, ignoring case considerations. 
+
+
+
+15. Write a java program to print current date and time in the specified format. 
+
+Sample Output :
+
+Current Date and Time :                                                                                       
+June 19, 2017                                                                                                 
+3:13 pm 
+N.B. : The current date and time will change according to your system date and time.
+
+
+
+16. Write a Java program to get the contents of a given string as a byte array. 
+
+
+
+17. Write a Java program to get the contents of a given string as a character array. 
+
+
+
+18. Write a Java program to create a unique identifier of a given string. 
+
+
+
+19. Write a Java program to get the index of all the characters of the alphabet. 
+
+Sample string of all alphabet: "The quick brown fox jumps over the lazy dog."
+
+
+
+20. Write a Java program to get the canonical representation of the string object. 
+
+
+
+21. Write a Java program to get the last index of a string within a string. 
+
+Sample string of all alphabet: "The quick brown fox jumps over the lazy dog."
+
+
+
+22. Write a java program to get the length of a given string. 
+
+
+
+23. Write a Java program to find whether a region in the current string matches a region in another string. 
+
+
+
+24. Write a Java program to replace all the 'd' characters with 'f' characters. 
+
+
+
+25. Write a Java program to replace each substring of a given string that matches the given regular expression with the given replacement. 
+
+Sample string : "The quick brown fox jumps over the lazy dog."
+
+In the above string replace all the fox with cat.
+
+
+
+26. Write a Java program to check whether a given string starts with the contents of another string. 
+
+
+
+27. Write a Java program to get a substring of a given string between two specified positions. 
+
+
+
+28. Write a Java program to create a character array containing the contents of a string. 
+
+
+
+29. Write a Java program to convert all the characters in a string to lowercase. 
+
+
+
+30. Write a Java program to convert all the characters in a string to uppercase. 
+
+
+
+31. Write a Java program to trim any leading or trailing whitespace from a given string. 
